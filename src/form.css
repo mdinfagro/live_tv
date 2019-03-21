@@ -1,0 +1,42 @@
+.FormTitle {
+  color: #707c8b;
+  font-weight: 300;
+  margin-bottom: 30px;
+}
+
+.FormTitle__Link {
+  text-decoration: none;
+  display: inline-block;
+  font-size: 1.7em;
+  margin: 0 10px;
+  color: #707c8b;
+  padding-bottom: 5px;
+}
+
+.FormTitle__Link--Active {
+  color: #707c8b;
+  border-bottom: 1px solid #199087;
+  text-decoration: none;
+}
+
+.FormField__Link {
+  color: #66707d;
+  text-decoration: none;
+  display: inline-block;
+  border-bottom: 1.5px solid #225e62;
+  padding-bottom: 5px;
+  margin: 40px;
+}
+.FormField__Checkbox {
+  position: relative;
+  top: 1.5px;
+}
+
+.FormField__TermsLink {
+  color: #707c8b;
+  border-bottom: 1px solid #199087;
+  text-decoration: none;
+  display: inline-block;
+  padding-bottom: 2px;
+  margin-left: 5px;
+}
