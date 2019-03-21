@@ -2,7 +2,7 @@
   "name": "live-tv",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://mdinfagro.github.io/live_tv/",
+  "homepage": "https://mdinfagro.github.io/live_tv/",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "firebase": "^5.8.4",
