@@ -23,7 +23,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "predeploy": "npm run build",
-    run:"npm run deploy",
+    "run":"npm run deploy",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
